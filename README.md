@@ -1,5 +1,5 @@
 # GIT-Project-1
-My learning attempts of HTML &amp; CSS 
+My learning attempts in HTML &amp; CSS 
 
-Here is my Learning attempts during ICET. Still I am working on Javascript part. But I am working on my best through self learning to complete all projects into extreme level.
-Thank you for visiting on my Project
+Here are my Self-Learning attempts during ICET. Still, I am working on the Javascript part. But I am working on my best through self-learning to complete all projects to an extreme level.
+Thank you for visiting my Project 😊
